@@ -1,0 +1,11 @@
+Prediction of Potential Customer if they would buy the company’s product or not.
+
+Methodologies used to examine the data set and trends of the company are Decision Tree, KNN.
+The goal can be understanding the target audience so that ads can be refined to hit the potential customers
+This will also help increase the sales as profitable customers will be targeted more
+
+Data Source:
+
+This Data Set is taken form Kaggle. Below is the link for the data set. https://www.kaggle.com/rakeshrau/social-network-ads
+
+The current Data Set consists of following attributes: Customer ID, Age, Gender, Salary, Purchased [‘Target Variable’]
